@@ -1,5 +1,6 @@
 import Head from 'next/head'
 import Hero from '../components/common/Hero'
+import SignUp from '../components/forms/SignUp'
 import Intro from '../components/site/about/Intro'
 
 export default function About() {
@@ -12,6 +13,7 @@ export default function About() {
       </Head>
       <Hero height="h-96 -mt-16"/>
       <Intro />
+      <SignUp />
     </div>
   )
 }

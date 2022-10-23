@@ -1,6 +1,7 @@
 import Head from 'next/head'
 import Link from 'next/link'
 import Hero from '../components/common/Hero'
+import SignUp from '../components/forms/SignUp'
 
 export default function Home() {
   return (
@@ -57,6 +58,7 @@ export default function Home() {
         </div>
         </div>
       </div>
+      <SignUp />
     </div>
   )
 }

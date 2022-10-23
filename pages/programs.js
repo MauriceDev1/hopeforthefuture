@@ -1,5 +1,6 @@
 import Head from 'next/head'
 import Hero from '../components/common/Hero'
+import SignUp from '../components/forms/SignUp'
 
 export default function Programs() {
   return (
@@ -10,7 +11,7 @@ export default function Programs() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Hero height="h-96 -mt-16"/>
-
+      <SignUp />
     </div>
   )
 }
