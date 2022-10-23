@@ -37,7 +37,7 @@ export default function Footer() {
                   <li>Programs</li>
                 </a>
               </Link>
-              <Link href="/donate">
+              <Link href="/donation">
                 <a>
                   <li>Donate</li>
                 </a>
