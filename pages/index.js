@@ -12,7 +12,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Hero height="h-screen -mt-16"/>
-      <div className='flex w-full md:h-[55vh] text-gray-600 py-16 sm:py-0 bg-gray-50'>
+      <div className='flex w-full text-gray-600 py-16 sm:py-20 bg-gray-50'>
         <div className='flex flex-wrap w-11/12 md:w-4/6 m-auto'>
           <h1 
             className='text-5xl md:text-6xl font-bold m-auto pb-7'>

@@ -39,7 +39,7 @@ export default function Contact() {
             </div>
           </div>
         </div>
-        <div className='w-full bg-gray-50 h-[45vh]'>
+        <div className='w-full bg-gray-50 h-96'>
 {/* <Google /> */}
         </div>
     </div>
